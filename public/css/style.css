@@ -1,0 +1,19 @@
+header {
+    height: 350px;
+    border-bottom: solid gray 1px;
+    background-image: url('/images/start-tech-blog.png');
+    background-size:cover ;
+    background-repeat: repeat-y;
+    background-color: rgb(168, 209, 250);
+    margin-bottom: 25px;
+}
+
+.card {
+    margin: 10px;
+}
+
+
+
+.post-title {
+    background-color: blue;
+}
